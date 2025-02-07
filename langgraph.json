@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "current-debug": "./module-1/src/agent.py:react_graph"
+    },
+    "env": ".env" 
+}
